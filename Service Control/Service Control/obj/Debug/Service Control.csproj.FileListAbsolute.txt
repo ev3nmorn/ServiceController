@@ -1,0 +1,39 @@
+E:\У\ФСБ\Курсовая\Service Control\Service Control\bin\Debug\Service Control.exe.config
+E:\У\ФСБ\Курсовая\Service Control\Service Control\bin\Debug\Service Control.exe
+E:\У\ФСБ\Курсовая\Service Control\Service Control\bin\Debug\Service Control.pdb
+E:\У\ФСБ\Курсовая\Service Control\Service Control\obj\Debug\Service Control.csprojResolveAssemblyReference.cache
+E:\У\ФСБ\Курсовая\Service Control\Service Control\obj\Debug\Service_Control.Properties.Resources.resources
+E:\У\ФСБ\Курсовая\Service Control\Service Control\obj\Debug\Service Control.csproj.GenerateResource.Cache
+E:\У\ФСБ\Курсовая\Service Control\Service Control\obj\Debug\Service Control.exe
+E:\У\ФСБ\Курсовая\Service Control\Service Control\obj\Debug\Service Control.pdb
+E:\У\ФСБ\Курсовая\Service Control\Service Control\obj\Debug\Service_Control.MainForm.resources
+E:\У\ЗащитаОС\Курсовая\Копия\Service Control\Service Control\bin\Debug\Service Control.exe.config
+E:\У\ЗащитаОС\Курсовая\Копия\Service Control\Service Control\obj\Debug\Service Control.exe
+E:\У\ЗащитаОС\Курсовая\Копия\Service Control\Service Control\obj\Debug\Service Control.pdb
+E:\У\ЗащитаОС\Курсовая\Service Control\Service Control\bin\Debug\Service Control.exe.config
+E:\У\ЗащитаОС\Курсовая\Service Control\Service Control\obj\Debug\Service Control.exe
+E:\У\ЗащитаОС\Курсовая\Service Control\Service Control\obj\Debug\Service Control.pdb
+E:\У\ЗащитаОС\Курсовая\Service Control\Service Control\bin\Debug\Service Control.exe
+E:\У\ЗащитаОС\Курсовая\Service Control\Service Control\bin\Debug\Service Control.pdb
+E:\У\ЗащитаОС\Курсовая\Service Control\Service Control\obj\Debug\Service Control.csprojResolveAssemblyReference.cache
+E:\У\ЗащитаОС\Курсовая\Service Control\Service Control\obj\Debug\Service_Control.MainForm.resources
+E:\У\ЗащитаОС\Курсовая\Service Control\Service Control\obj\Debug\Service_Control.Properties.Resources.resources
+E:\У\ЗащитаОС\Курсовая\Service Control\Service Control\obj\Debug\Service Control.csproj.GenerateResource.Cache
+E:\У\ЗащитаОС\Курсовая\Проект\Service Control\Service Control\bin\Debug\Service Control.exe.config
+E:\У\ЗащитаОС\Курсовая\Проект\Service Control\Service Control\obj\Debug\Service Control.exe
+E:\У\ЗащитаОС\Курсовая\Проект\Service Control\Service Control\obj\Debug\Service Control.pdb
+E:\У\ЗащитаОС\Курсовая\Проект\Service Control\Service Control\bin\Debug\Service Control.exe
+E:\У\ЗащитаОС\Курсовая\Проект\Service Control\Service Control\bin\Debug\Service Control.pdb
+E:\У\ЗащитаОС\Курсовая\Проект\Service Control\Service Control\obj\Debug\Service Control.csprojResolveAssemblyReference.cache
+E:\У\ЗащитаОС\Курсовая\Проект\Service Control\Service Control\obj\Debug\Service_Control.MainForm.resources
+E:\У\ЗащитаОС\Курсовая\Проект\Service Control\Service Control\obj\Debug\Service_Control.Properties.Resources.resources
+E:\У\ЗащитаОС\Курсовая\Проект\Service Control\Service Control\obj\Debug\Service Control.csproj.GenerateResource.Cache
+E:\У\ЗащитаОС\Курсовая\dev\Service Control\Service Control\bin\Debug\Service Control.exe.config
+E:\У\ЗащитаОС\Курсовая\dev\Service Control\Service Control\obj\Debug\Service Control.exe
+E:\У\ЗащитаОС\Курсовая\dev\Service Control\Service Control\obj\Debug\Service Control.pdb
+E:\У\ЗащитаОС\Курсовая\dev\Service Control\Service Control\bin\Debug\Service Control.exe
+E:\У\ЗащитаОС\Курсовая\dev\Service Control\Service Control\bin\Debug\Service Control.pdb
+E:\У\ЗащитаОС\Курсовая\dev\Service Control\Service Control\obj\Debug\Service Control.csprojResolveAssemblyReference.cache
+E:\У\ЗащитаОС\Курсовая\dev\Service Control\Service Control\obj\Debug\Service_Control.MainForm.resources
+E:\У\ЗащитаОС\Курсовая\dev\Service Control\Service Control\obj\Debug\Service_Control.Properties.Resources.resources
+E:\У\ЗащитаОС\Курсовая\dev\Service Control\Service Control\obj\Debug\Service Control.csproj.GenerateResource.Cache
